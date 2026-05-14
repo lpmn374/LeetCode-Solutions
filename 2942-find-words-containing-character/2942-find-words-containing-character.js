@@ -4,8 +4,5 @@
  * @return {number[]}
  */
 var findWordsContaining = function(words, x) {
-    return words.reduce((result, word, i)=> {
-        if (word.includes(x)) result.push(i);
-        return result;
-    },[]);
+    return words.reduce((res, word, i) => word.includes(x) ? (res.push(i),res) : res,[]);
 };
