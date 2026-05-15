@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3668-restore-finishing-order/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1920-build-array-from-permutation](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
