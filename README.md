@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3668-restore-finishing-order](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3668-restore-finishing-order/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -44,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1512-number-of-good-pairs](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -74,4 +77,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1512-number-of-good-pairs](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 <!---LeetCode Topics End-->
