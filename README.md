@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0704-binary-search](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0706-design-hashmap](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0704-binary-search](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 ## Math
 | Problem Name | Difficulty |
