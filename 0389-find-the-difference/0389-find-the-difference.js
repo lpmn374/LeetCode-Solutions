@@ -4,8 +4,5 @@
  * @return {character}
  */
 var findTheDifference = function(s, t) {
-    let result=0;
-    for (let x of s) result^=x.charCodeAt(0);
-    for (let y of t) result^=y.charCodeAt(0);
-    return String.fromCharCode(result);
+    return String.fromCharCode([...s].reduce((acc,cur)=>acc^cur.charCodeAt(0),0)^[...t].reduce((acc,cur)=>acc^cur.charCodeAt(0),0));
 };
