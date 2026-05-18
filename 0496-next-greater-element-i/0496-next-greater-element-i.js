@@ -12,19 +12,17 @@ var nextGreaterElement = function(nums1, nums2) {
         else if (nums2[i]<currentRight)
             hashTable.set(nums2[i],currentRight);
         else{
-            let potentialTarget=currentRight;
             while(!hashTable.has(nums2[i])){
-                if (hashTable.get(potentialTarget)===-1 || !hashTable.has(potentialTarget))
+                if (hashTable.get(currentRight)===-1 || !hashTable.has(currentRight))
                     hashTable.set(nums2[i],-1);
-                else if (nums2[i]<hashTable.get(potentialTarget))
-                    hashTable.set(nums2[i], hashTable.get(potentialTarget));
-                potentialTarget= hashTable.get(potentialTarget);
+                else if (nums2[i]<hashTable.get(currentRight))
+                    hashTable.set(nums2[i], hashTable.get(currentRight));
+                currentRight= hashTable.get(currentRight);
             }
         }
         currentRight=nums2[i];
         if (maxRight<currentRight) maxRight=currentRight;
     }
-        
     for(let i=0;i<nums1.length;i++)
         nums1[i]=hashTable.get(nums1[i]);
     return nums1;
