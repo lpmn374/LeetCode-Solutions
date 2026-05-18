@@ -5,7 +5,7 @@
  */
 var nextGreaterElement = function(nums1, nums2) {
     const hashTable = new Map();
-    let result = [], maxRight=nums2[nums2.length-1], currentRight=nums2[nums2.length-1];
+    let maxRight=nums2[nums2.length-1], currentRight=nums2[nums2.length-1];
     hashTable.set(nums2[nums2.length-1],-1);
     for(let i=nums2.length-2;i>=0;i--){
         if (nums2[i]>maxRight) hashTable.set(nums2[i],-1);
@@ -25,7 +25,7 @@ var nextGreaterElement = function(nums1, nums2) {
         if (maxRight<currentRight) maxRight=currentRight;
     }
         
-    for(let x of nums1)
-        result.push(hashTable.get(x));
-    return result;
+    for(let i=0;i<nums1.length;i++)
+        nums1[i]=hashTable.get(nums1[i]);
+    return nums1;
 };
