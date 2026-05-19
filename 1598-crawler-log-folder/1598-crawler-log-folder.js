@@ -3,9 +3,5 @@
  * @return {number}
  */
 var minOperations = function(logs) {
-    let result=0;
-    for(let x of logs)
-        if (x[1]==='.' && result>0) result-=1;
-        else if (x[0]!=='.') result+=1;
-    return result;
+    return logs.reduce((acc,curr)=>(curr[1]==='.' && acc>0)?acc-1:(curr[0]!=='.')?acc+1:acc,0);
 };
