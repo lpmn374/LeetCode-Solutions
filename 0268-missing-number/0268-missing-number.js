@@ -3,8 +3,8 @@
  * @return {number}
  */
 var missingNumber = function(nums) {
-    let result;
+    let result=nums.length*(nums.length+1)/2;
     for(let i=0;i<nums.length;i++)
-        result=(result||0)+i+1-nums[i];
+        result-=nums[i];
     return result;
 };
