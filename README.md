@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [1598-crawler-log-folder](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0496-next-greater-element-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1598-crawler-log-folder](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
