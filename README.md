@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0125-valid-palindrome](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 ## Linked List
