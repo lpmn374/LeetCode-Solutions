@@ -3,13 +3,14 @@
  * @return {boolean}
  */
 var isPalindrome = function(s) {
-    let arr=[];
-    for(let i=0;i<s.length;i++)
-        if ((s[i]>='a' && s[i]<='z') || (s[i]>='0' && s[i]<='9') ) 
-            arr.push(s[i]);
-        else if (s[i]>='A' && s[i]<='Z') arr.push(s[i].toLowerCase());
-    let left=0, right=arr.length-1;
-    while(left<right)
-        if(arr[left++]!==arr[right--]) return false;
+    let left=0, right=s.length-1;
+    const needTrack = c => (c>='a' && c<='z') || (c>='0' && c<='9') || (c>='A' && c<='Z');
+    while(left<right){
+        while(left<right && !needTrack(s[left])) left++;
+        while(left<right && !needTrack(s[right])) right--;
+        if(s[left].toLowerCase() !== s[right].toLowerCase()) return false;
+        left++;
+        right--;
+    }
     return true;
 };
