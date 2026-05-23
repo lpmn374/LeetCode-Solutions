@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1598-crawler-log-folder](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
