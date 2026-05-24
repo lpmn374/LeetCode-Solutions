@@ -5,11 +5,12 @@
  */
 var isAnagram = function(s, t) {
     if(s.length!==t.length) return false;
-    let tempArr=new Array(26).fill(0);
-    for(let x of s) tempArr[x.charCodeAt(0)-97]++;
+    const myMap=new Map();
+    for(let x of s)
+        myMap.set(x, (myMap.get(x)||0) +1);
     for(let y of t){
-        tempArr[y.charCodeAt(0)-97]--;
-        if (tempArr[y.charCodeAt(0)-97]<0) return false;
+        myMap.set(y, (myMap.get(y)||0)-1);
+        if(myMap.get(y)<0) return false;
     }
     return true;
 };
