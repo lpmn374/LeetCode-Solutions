@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [2540-minimum-common-value](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0844-backspace-string-compare](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
