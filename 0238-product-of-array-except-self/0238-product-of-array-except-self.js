@@ -3,13 +3,14 @@
  * @return {number[]}
  */
 var productExceptSelf = function(nums) {
-    let result= new Array(nums.length), rightProduct=1;
-    result[0]=1;
-    for(let i=1;i<nums.length;i++)
-        result[i]=result[i-1]*nums[i-1];
-    for(let j=nums.length-1;j>=0;j--){
-        result[j]*=rightProduct;
-        rightProduct*=nums[j]
+    let rightProduct=1, leftProduct=1, result=new Array();
+    for(let i=0;i<nums.length;i++){
+        result.push(leftProduct);
+        leftProduct*=nums[i];
+    }
+    for(let i=nums.length-1;i>=0;i--){
+        result[i]*=rightProduct;
+        rightProduct*=nums[i];
     }
     return result;
 };
