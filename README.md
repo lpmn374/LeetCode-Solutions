@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -287,8 +288,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0994-rotting-oranges](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 <!---LeetCode Topics End-->
