@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1598-crawler-log-folder](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [1345-jump-game-iv](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2540-minimum-common-value](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1544-make-the-string-great](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1598-crawler-log-folder](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1871-jump-game-vii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -160,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0268-missing-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Combinatorics
@@ -177,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
