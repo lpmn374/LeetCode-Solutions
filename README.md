@@ -1,3 +1,6 @@
+## LeetCode Progress Tracker
+You can track my detailed learning progress, topic statistics, and problem-solving notes in this [LeetCode Logs (Google Sheets)](https://docs.google.com/spreadsheets/d/15S8oN44F1vdVzkt9hkB8y4PqpaLsBLPzC1Wt6ofRLrs/edit?usp=sharing).
+
 # LeetCode-Solutions
 Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 
