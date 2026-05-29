@@ -3,12 +3,11 @@
  * @return {number[]}
  */
 var smallerNumbersThanCurrent = function(nums) {
-    let result=[];
-    for(let i=0;i<nums.length;i++){
-        let count=0;
-        for(let j=0;j<nums.length;j++)
-            if(nums[j]<nums[i] && j!=i) count++;
-        result.push(count);
-    }
-    return result;
+    let tmp=[...nums], myMap=new Map();
+    nums.sort((a,b)=> a-b);
+    for(let i=0; i<nums.length; i++)
+        if(!myMap.has(nums[i])) myMap.set(nums[i],i);
+    for(let i=0; i<tmp.length; i++)
+        tmp[i]=myMap.get(tmp[i]);
+    return tmp;
 };
