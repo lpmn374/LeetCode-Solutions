@@ -3,13 +3,13 @@
  * @return {number[][]}
  */
 var groupThePeople = function(groupSizes) {
-    let result=[], myMap=new Map();
+    let result=[], current={};
     for(let i=0;i<groupSizes.length;i++){
-        if(!myMap.has(groupSizes[i])) myMap.set(groupSizes[i], [] );
-        myMap.get(groupSizes[i]).push(i);
-        if (myMap.get(groupSizes[i]).length===groupSizes[i]){
-            result.push(myMap.get(groupSizes[i]));
-            myMap.delete(groupSizes[i]);
+        if(!current[groupSizes[i]]) current[groupSizes[i]]=[];
+        current[groupSizes[i]].push(i);
+        if (current[groupSizes[i]].length===groupSizes[i]){
+            result.push(current[groupSizes[i]]);
+            current[groupSizes[i]]=[];
         }
     }
     return result;
