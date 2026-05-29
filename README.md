@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1306-jump-game-iii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1345-jump-game-iv/) | Hard |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0706-design-hashmap](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1345-jump-game-iv](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
