@@ -3,11 +3,9 @@
  * @return {number}
  */
 var maxWidthOfVerticalArea = function(points) {
-    let temp=[], widestArea=0;
-    for(let [x,y] of points)
-        temp.push(x);
-    temp.sort((a,b)=>a-b);
-    for(let i=0;i<temp.length;i++)
-        if (temp[i+1]-temp[i]>widestArea) widestArea=temp[i+1]-temp[i];
+    let widestArea=0;
+    points.sort((a,b)=>a[0]-b[0]);
+    for(let i=1;i<points.length;i++)
+        widestArea=Math.max(points[i][0]-points[i-1][0], widestArea);
     return widestArea;
 };
