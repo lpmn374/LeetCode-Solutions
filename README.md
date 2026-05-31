@@ -361,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1068-product-sales-analysis-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
