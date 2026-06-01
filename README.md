@@ -365,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0175-combine-two-tables/) | Easy |
+| [0176-second-highest-salary](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0176-second-highest-salary/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
