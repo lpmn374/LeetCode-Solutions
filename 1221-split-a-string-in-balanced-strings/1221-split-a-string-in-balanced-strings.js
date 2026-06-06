@@ -3,15 +3,11 @@
  * @return {number}
  */
 var balancedStringSplit = function(s) {
-    let countSub=0, countR=0, countL=0;
-    for(let i=0;i<s.length;i++){
-        if(s[i]==='R') countR++;
-        else countL++;
-        if(countR===countL){
-            countSub++;
-            countR=0;
-            countL=0;
-        }
+    let countSub=0, stack=[s[0]];
+    for(let i=1;i<s.length;i++){
+        if (stack.length!==0 && s[i]!==stack[stack.length-1]) stack.pop();
+        else stack.push(s[i]);
+        if(stack.length===0) countSub++;
     }
     return countSub;
 };
