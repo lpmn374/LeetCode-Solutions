@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0771-jewels-and-stones](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0844-backspace-string-compare](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1544-make-the-string-great](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1598-crawler-log-folder](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -312,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [1221-split-a-string-in-balanced-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
