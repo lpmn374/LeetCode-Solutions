@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0706-design-hashmap](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0735-asteroid-collision](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0896-monotonic-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0896-monotonic-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0463-island-perimeter/) | Easy |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0994-rotting-oranges](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
