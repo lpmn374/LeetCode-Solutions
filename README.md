@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2325-decode-the-message](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2325-decode-the-message/) | Easy |
 | [2540-minimum-common-value](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1871-jump-game-vii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2325-decode-the-message](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2325-decode-the-message/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2942-find-words-containing-character](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
