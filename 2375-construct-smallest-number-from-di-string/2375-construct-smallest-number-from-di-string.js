@@ -3,30 +3,23 @@
  * @return {string}
  */
 var smallestNumber = function(pattern) {
-    let result=[], current=1, i=0, isAdd=false;
-    while(result.length<=pattern.length)
-        if (pattern[i]==='I' && !isAdd){
+    let result = [], current = 1, i = 0;
+    while (result.length <= pattern.length)
+        if (pattern[i] === 'I' || i === pattern.length) {
             result.push(current);
             current++;
             i++;
         }
-        else if (pattern[i]==='I' && isAdd){
-            isAdd=false;
-            i++
-        }
-        else{
-            rotate=current;
-            while(pattern[i]==='D'){
-                rotate++;
+        else {
+            startCount = current;
+            while (i < pattern.length && pattern[i] === 'D') {
+                current++;
                 i++;
             }
-            newCurrent=rotate+1;
-            while(rotate>=current){
-                result.push(rotate);
-                rotate--;
-            }
-            current=newCurrent;
-            isAdd=true;
+            for (let j = current; j >= startCount; j--)
+                result.push(j);
+            current++;
+            i++;
         }
     return result.join('');  
 };
