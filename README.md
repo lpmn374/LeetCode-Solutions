@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 | [3895-count-digit-appearances](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3895-count-digit-appearances/) | Medium |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [1306-jump-game-iii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -433,4 +435,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 <!---LeetCode Topics End-->
