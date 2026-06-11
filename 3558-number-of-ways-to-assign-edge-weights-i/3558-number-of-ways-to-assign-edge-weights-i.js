@@ -27,11 +27,5 @@ var assignEdgeWeights = function(edges) {
             currentNode = currentPath[currentPath.length - 1]; 
         }
     }
-    let MOD = 1000000007n, result = 1n, base = 2n, exp = BigInt(maxLength-2);
-    while (exp > 0n) {
-        if (exp % 2n === 1n) result = (result * base) % MOD;
-        base = (base * base) % MOD;
-        exp /= 2n;
-    }
-    return Number(result);
+    return Number(2n ** BigInt(maxLength-2) % 1000000007n);
 };
