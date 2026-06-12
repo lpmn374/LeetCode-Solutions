@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0118-pascals-triangle](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0118-pascals-triangle](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0198-house-robber](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [1340-jump-game-v](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1871-jump-game-vii/) | Medium |
