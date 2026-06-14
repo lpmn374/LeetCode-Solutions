@@ -4,14 +4,10 @@
  * @return {number}
  */
 var timeRequiredToBuy = function(tickets, k) {
-    let time=0, i=0;
-    while(true){
-        if (tickets[i]>0){
-            tickets[i]--;
-            time++;
-        }
-        if (i===k && tickets[i]===0) return time;
-        i++;
-        if(i===tickets.length) i=0; 
-    }
+    let time=0;
+    for(let i=0;i<tickets.length;i++)
+        if (i<=k) time+= Math.min(tickets[i], tickets[k]);
+        else if(tickets[i]<tickets[k]) time+=tickets[i];
+        else time+=tickets[k]-1;
+    return time;
 };
