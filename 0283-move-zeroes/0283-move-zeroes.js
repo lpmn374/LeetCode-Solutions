@@ -4,18 +4,15 @@
  */
 var moveZeroes = function(nums) {
     if (nums.length===1) return nums;
-    let pointer1=0, pointer2=0;
-    while(pointer2<nums.length){
-        while(nums[pointer1]!==0 && pointer1<nums.length) pointer1++;
-        if (pointer2<pointer1) pointer2=pointer1;
-        while(nums[pointer2]===0 && pointer2<nums.length) pointer2++;
-        if (pointer1<pointer2 && pointer1<nums.length && pointer2<nums.length){
-            let tmp=nums[pointer1];
-            nums[pointer1]=nums[pointer2];
-            nums[pointer2]=tmp;
+    let pointer=0;
+    for(let i=1;i<nums.length;i++){
+        if(nums[i]!==0 && nums[pointer]===0 && i!==pointer){
+            let tmp=nums[i];
+            nums[i]=nums[pointer];
+            nums[pointer]=tmp;
+            pointer++;
         }
-        pointer1++;
-        pointer2++;
+        if(nums[i]===0 && nums[pointer]!==0) pointer=i;
     }
     return nums;
 };
