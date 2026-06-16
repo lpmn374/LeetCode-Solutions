@@ -5,12 +5,31 @@
  */
 var convert = function(s, numRows) {
     if (numRows === 1 || s.length <= numRows) return s;
-    let arr= Array.from({length:numRows}, ()=>[]), line=0, direction=1;
-    for(let i=0;i<s.length;i++){
-        arr[line].push(s[i]);
-        if (line===numRows-1) direction=-1;
-        else if (line===0) direction=1;
-        line+=direction;
+    let currentRow=0, aboveRows=0, belowRows=numRows-1, result= new Array(s.length), i=0;
+    while(currentRow<numRows){
+        index=currentRow;
+        if(currentRow===0 || currentRow===numRows-1){
+            step=Math.max(aboveRows,belowRows)*2;
+            while(index<s.length){
+                result[i]=s[index];
+                index+=step;
+                i++;
+            }
+        }
+        else{
+            count=0;
+            while(index<s.length){
+                result[i]=s[index];
+                if(count%2===0) step=belowRows*2;
+                else step=aboveRows*2;
+                index+=step;
+                i++;
+                count++;
+            }
+        }
+        currentRow++;
+        aboveRows++;
+        belowRows--;
     }
-    return arr.map(arr => arr.join('')).join('');
+    return result.join('');
 };
