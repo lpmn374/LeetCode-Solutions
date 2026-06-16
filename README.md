@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3121-count-the-number-of-special-characters-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Trie
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2073-time-needed-to-buy-tickets](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
