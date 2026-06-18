@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0268-missing-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
