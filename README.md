@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1672-richest-customer-wealth](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1720-decode-xored-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1720-decode-xored-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1871-jump-game-vii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
