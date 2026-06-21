@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3093-longest-common-suffix-queries](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2073-time-needed-to-buy-tickets](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -482,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
