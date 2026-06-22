@@ -9,7 +9,7 @@ var countPartitions = function(nums) {
     for(let i=0;i<nums.length-1;i++){
         left+=nums[i];
         if((left-right)%2===0) count++;
-        if (i<nums.length-1) right-=nums[i+1];
+        right-=nums[i+1];
     }
     return count;
 };
