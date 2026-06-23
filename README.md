@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0704-binary-search](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0706-design-hashmap](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0733-flood-fill](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
@@ -462,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0735-asteroid-collision](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -475,12 +477,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -564,5 +568,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
