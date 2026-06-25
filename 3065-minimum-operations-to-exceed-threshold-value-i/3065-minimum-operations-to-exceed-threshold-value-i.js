@@ -4,7 +4,8 @@
  * @return {number}
  */
 var minOperations = function(nums, k) {
-    nums=nums.sort((a,b)=>a-b), i=0;
-    while(nums[i]<k) i++;
-    return i;
+    let count=0;
+    for(let i=0;i<nums.length;i++)
+        if(nums[i]<k) count++;
+    return count;
 };
