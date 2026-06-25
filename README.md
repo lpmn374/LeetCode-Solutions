@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
