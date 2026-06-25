@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1863-sum-of-all-subset-xor-totals](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
