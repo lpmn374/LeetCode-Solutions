@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3668-restore-finishing-order](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3668-restore-finishing-order/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3895-count-digit-appearances](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3668-restore-finishing-order](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3668-restore-finishing-order/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3945-digit-frequency-score](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
@@ -303,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3427-sum-of-variable-length-subarrays](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -347,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -495,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -584,4 +589,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0654-maximum-binary-tree](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
