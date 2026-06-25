@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0844-backspace-string-compare](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1079-letter-tile-possibilities](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
+| [1108-defanging-an-ip-address](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1544-make-the-string-great](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1544-make-the-string-great/) | Easy |
