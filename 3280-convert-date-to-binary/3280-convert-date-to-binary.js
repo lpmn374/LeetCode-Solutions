@@ -3,6 +3,5 @@
  * @return {string}
  */
 var convertDateToBinary = function(date) {
-    date=date.split('-');
-    return date.map(part=>Number(part).toString(2)).join('-');
+    return date.split('-').map(part=>Number(part).toString(2)).join('-');
 };
