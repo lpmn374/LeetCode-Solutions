@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1090-largest-values-from-labels](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1306-jump-game-iii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
+| [1313-decompress-run-length-encoded-list](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1340-jump-game-v](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
