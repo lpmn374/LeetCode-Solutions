@@ -4,12 +4,12 @@
  * @return {number[]}
  */
 var countPoints = function(points, queries) {
-    let result=[];
-    for (let [x,y,r] of queries){
-        let sqrR=r**2, count=0;
-        for(let [xp,yp] of points)
-            if ((xp-x)**2+(yp-y)**2<=sqrR) count++;
-        result.push(count);
+    let qLen=queries.length, pLen=points.length, result=new Array(qLen);
+    for(let i=0;i<qLen;i++){
+        let x=queries[i][0], y=queries[i][1], sqrR=(queries[i][2])**2, count=0;
+        for(let j=0;j<pLen;j++)
+            if((points[j][0]-x)**2+(points[j][1]-y)**2<=sqrR) count++;
+        result[i]=count;
     }
     return result;
 };
