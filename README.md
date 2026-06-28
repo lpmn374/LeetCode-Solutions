@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
