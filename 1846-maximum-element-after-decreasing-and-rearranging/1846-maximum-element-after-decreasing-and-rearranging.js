@@ -3,12 +3,27 @@
  * @return {number}
  */
 var maximumElementAfterDecrementingAndRearranging = function(arr) {
-    arr.sort((a,b)=>a-b);
-    if(arr[0]!==1) arr[0]=1;
-    let max=arr[0];
-    for(let i=1;i<arr.length;i++){
-        if(arr[i]-arr[i-1]>1) arr[i]=arr[i-1]+1;
-        max=arr[i];
+    let n=arr.length, myMap=new Map(), max=-Infinity;
+    for(let i=0;i<n;i++)
+        myMap.set(arr[i], (myMap.get(arr[i])||0)+1);
+    let num=1, end=1,debt=0;
+    while (n>0){
+        if (myMap.has(num)){
+            if(myMap.get(num)>debt){
+                n-=myMap.get(num)-debt;
+                debt=0;
+            }
+            else{
+                debt-=myMap.get(num)-1;
+                n-=1;
+            }
+        }
+        else{
+            n-=1;
+            debt++;
+        }
+        end=num;
+        num++;
     }
-    return max;
+    return end;
 };
