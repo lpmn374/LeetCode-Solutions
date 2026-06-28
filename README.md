@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1816-truncate-sentence](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2126-destroying-asteroids](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
@@ -483,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2126-destroying-asteroids](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
