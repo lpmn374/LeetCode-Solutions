@@ -5,11 +5,9 @@
  * @return {number}
  */
 var countMatches = function(items, ruleKey, ruleValue) {
-    let index, count=0;
-    if (ruleKey==='type') index=0;
-    else if (ruleKey==='color') index=1;
-    else index=2;
-    for(let i=0;i<items.length;i++)
+    const keyMap = {"type": 0, "color": 1, "name": 2}
+    let index=keyMap[ruleKey], count=0, n=items.length;
+    for(let i=0;i<n;i++)
         if(items[i][index]===ruleValue) count++;
     return count;
 };
