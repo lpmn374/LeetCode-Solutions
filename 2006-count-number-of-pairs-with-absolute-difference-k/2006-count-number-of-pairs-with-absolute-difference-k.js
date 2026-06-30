@@ -4,9 +4,10 @@
  * @return {number}
  */
 var countKDifference = function(nums, k) {
-    let n=nums.length, count=0;
+    let n=nums.length, count=0, counts=new Array(100).fill(0);
     for(let i=0;i<n;i++)
-        for(let j=i+1;j<n;j++)
-            if (Math.abs(nums[i]-nums[j])===k) count++;
+        counts[nums[i]-1]++;
+    for(let i=0;i<100;i++)
+        if (i+k < 100) count+= counts[i]*counts[i+k];
     return count;
 };
