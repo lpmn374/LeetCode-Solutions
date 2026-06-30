@@ -5,13 +5,11 @@
  * @return {number}
  */
 var countMatches = function(items, ruleKey, ruleValue) {
-    let type = new Map(), color = new Map(), name=new Map();
-    for(let i=0;i<items.length;i++){
-        type.set(items[i][0], (type.get(items[i][0]) || 0) +1 );
-        color.set(items[i][1], (color.get(items[i][1]) || 0) +1);
-        name.set(items[i][2], (name.get(items[i][2]) || 0) +1);
-    }
-    if (ruleKey==='type') return type.get(ruleValue)||0;
-    else if (ruleKey==='color') return color.get(ruleValue)||0;
-    else return name.get(ruleValue)||0;
+    let index, search=new Map();
+    if (ruleKey==='type') index=0;
+    else if (ruleKey==='color') index=1;
+    else index=2;
+    for(let i=0;i<items.length;i++)
+        search.set(items[i][index], (search.get(items[i][index]) || 0) +1 );
+    return search.get(ruleValue)||0;
 };
