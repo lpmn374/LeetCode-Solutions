@@ -4,15 +4,11 @@
  * @return {number}
  */
 var strStr = function(haystack, needle) {
-    if(!haystack.includes(needle)) return -1;
-    let start=0, isFound=false;
-    while(start<haystack.length){
+    let isFound=false;
+    for(let start=0; start<haystack.length; start++)
         for(let i=0;i<needle.length;i++){
             if(haystack[start+i]!==needle[i]) break;
-            if(i===needle.length-1) isFound=true;
+            if(i===needle.length-1) return start;
         }
-        if (isFound) return start;
-        start++;
-    }
     return -1;
 };
