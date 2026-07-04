@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2325-decode-the-message](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2325-decode-the-message/) | Easy |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1773-count-items-matching-a-rule](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1816-truncate-sentence](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1871-jump-game-vii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
