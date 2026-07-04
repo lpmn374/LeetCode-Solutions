@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2798-number-of-employees-who-met-the-target](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2974-minimum-number-game](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2956-find-common-elements-between-two-arrays](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
