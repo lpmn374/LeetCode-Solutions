@@ -638,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1693-daily-leads-and-partners](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1795-rearrange-products-table](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1795-rearrange-products-table/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
