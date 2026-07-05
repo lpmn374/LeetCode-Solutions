@@ -633,6 +633,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0177-nth-highest-salary](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0177-nth-highest-salary/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1393-capital-gainloss](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1393-capital-gainloss/) | Medium |
 | [1484-group-sold-products-by-the-date](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1683-invalid-tweets](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1693-daily-leads-and-partners/) | Easy |
