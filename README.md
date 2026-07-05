@@ -640,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1757-recyclable-and-low-fat-products](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1795-rearrange-products-table](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1795-rearrange-products-table/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+| [3475-dna-pattern-recognition](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3475-dna-pattern-recognition/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
