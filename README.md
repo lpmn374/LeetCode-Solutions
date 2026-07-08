@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3498-reverse-degree-of-a-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 | [3895-count-digit-appearances](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3895-count-digit-appearances/) | Medium |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3427-sum-of-variable-length-subarrays](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
