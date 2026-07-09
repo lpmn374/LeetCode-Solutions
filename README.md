@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0733-flood-fill](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [0804-unique-morse-code-words](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0896-monotonic-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0896-monotonic-array/) | Easy |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0763-partition-labels](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0771-jewels-and-stones](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1079-letter-tile-possibilities](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0763-partition-labels](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0771-jewels-and-stones](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0844-backspace-string-compare](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1079-letter-tile-possibilities](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
