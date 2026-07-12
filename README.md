@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1313-decompress-run-length-encoded-list](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1090-largest-values-from-labels](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -427,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1090-largest-values-from-labels](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
