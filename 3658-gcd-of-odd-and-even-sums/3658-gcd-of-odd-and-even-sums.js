@@ -10,10 +10,15 @@ var gcdOfOddEvenSums = function(n) {
         k+=1;
         sumEven+=k;
     }
-    let num=sumOdd;
-    while(num>0){
-        if(sumEven%num===0 && sumOdd%num===0) return num;
-        num--;
+    let grt=sumEven, sml=sumOdd;
+    if(grt%sml===0) return sml;
+    else {
+        let l=1;
+        while(l!==0){
+            l=grt%sml;
+            grt=sml
+            sml=l;
+        }
+        return grt;
     }
-    return 1;
 };
