@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2956-find-common-elements-between-two-arrays](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2697-lexicographically-smallest-palindrome](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [2942-find-words-containing-character](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3110-score-of-a-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3110-score-of-a-string/) | Easy |
@@ -422,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1684-count-the-number-of-consistent-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -458,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2545-sort-the-students-by-their-kth-score](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -563,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2375-construct-smallest-number-from-di-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Stack
