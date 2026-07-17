@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0402-remove-k-digits](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
+| [0709-to-lower-case](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0763-partition-labels](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0771-jewels-and-stones](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
