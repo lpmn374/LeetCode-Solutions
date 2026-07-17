@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2185-counting-words-with-a-given-prefix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2185-counting-words-with-a-given-prefix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2325-decode-the-message](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2325-decode-the-message/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
@@ -732,6 +734,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
