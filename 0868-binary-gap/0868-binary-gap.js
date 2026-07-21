@@ -11,7 +11,6 @@ var binaryGap = function(n) {
         }
         start--;
     }
-    console.log(bit);
     let flag=0, current=0, max=-Infinity, a=null, b=null;
     for(let i=0;i<31;i++){
         if(bit[i]===1 && flag===0){
@@ -22,7 +21,6 @@ var binaryGap = function(n) {
             b=i;
             flag=0;
         }
-        
         if (a && b) {
             current=Math.abs(a-b);
             if(max<current) max=current;
