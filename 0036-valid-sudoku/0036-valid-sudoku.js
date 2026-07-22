@@ -3,7 +3,17 @@
  * @return {boolean}
  */
 var isValidSudoku = function(board) {
-    let myMapR=new Map(), myMapC=new Map(), myMapCell=new Map();
+    let row=Array.from({length:9}, ()=> new Array(9).fill(0)), col=Array.from({length:9}, ()=> new Array(9).fill(0)), cellCount=Array.from({length:9}, ()=> new Array(9).fill(0)), cellTable={
+        0:0,
+        1:1,
+        2:2,
+        10:3,
+        11:4,
+        12:5,
+        20:6,
+        21:7,
+        22:8
+    }
     for(let i=0;i<9;i++)
         for(let j=0;j<9;j++)
             if(board[i][j]!=='.'){
@@ -13,27 +23,13 @@ var isValidSudoku = function(board) {
                 if(j>=0&&j<3) cell=cell*10;
                 else if (j<6) cell=cell*10+1;
                 else cell=cell*10+2;
-                if(!myMapR.has(board[i][j])) myMapR.set(board[i][j],[]);
-                if(!myMapC.has(board[i][j])) myMapC.set(board[i][j],[]);
-                if(!myMapCell.has(board[i][j])) myMapCell.set(board[i][j],[]);
-                myMapR.get(board[i][j]).push(i);
-                myMapC.get(board[i][j]).push(j);
-                myMapCell.get(board[i][j]).push(cell);
+                let num=Number(board[i][j])-1;
+                row[num][i]++;
+                if(row[num][i]>1) return false;
+                col[num][j]++;
+                if(col[num][j]>1) return false;
+                cellCount[num][cellTable[cell]]++;
+                if(cellCount[num][cellTable[cell]]>1) return false;
             }
-    for(let key=1;key<=9;key++){
-        let i=String(key);
-        if(myMapR.has(i)){
-            let mySet=new Set(myMapR.get(i));
-            if(mySet.size!==myMapR.get(i).length) return false;
-        }
-        if(myMapC.has(i)){
-            let mySet=new Set(myMapC.get(i));
-            if(mySet.size!==myMapC.get(i).length) return false;
-        }
-        if(myMapCell.has(i)){
-            let mySet=new Set(myMapCell.get(i));
-            if(mySet.size!==myMapCell.get(i).length) return false;
-        }
-    }
     return true;
 };
