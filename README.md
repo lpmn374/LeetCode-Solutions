@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0561-array-partition](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0704-binary-search](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0268-missing-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1323-maximum-69-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1323-maximum-69-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -458,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0561-array-partition](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1090-largest-values-from-labels](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
