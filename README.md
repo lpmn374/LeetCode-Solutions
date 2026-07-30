@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2785-sort-vowels-in-a-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [2942-find-words-containing-character](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2769-find-the-maximum-achievable-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3280-convert-date-to-binary/) | Easy |
@@ -597,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2375-construct-smallest-number-from-di-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
