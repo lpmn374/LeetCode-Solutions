@@ -333,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2413-smallest-even-multiple](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2469-convert-the-temperature](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
@@ -774,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Brainteaser
