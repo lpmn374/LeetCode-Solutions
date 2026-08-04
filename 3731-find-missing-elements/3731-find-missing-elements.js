@@ -3,12 +3,10 @@
  * @return {number[]}
  */
 var findMissingElements = function(nums) {
-    let set=new Set(nums), result=[], minVal=nums[0], maxVal=minVal;
-    for(let i=0;i<nums.length;i++){
-        if(nums[i]<minVal) minVal=nums[i];
-        if(nums[i]>maxVal) maxVal=nums[i]; 
-    }
-    for(let i=minVal;i<maxVal;i++)
-        if(!set.has(i)) result.push(i);
+    nums.sort((a,b)=>a-b);
+    let n=nums.length, num=nums[0], result=[], index=0;
+    for(let i=nums[0];i<nums[n-1];i++)
+        if(nums[index]===i) index++;
+        else result.push(i);
     return result;
-};
+}; 
