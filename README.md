@@ -348,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3280-convert-date-to-binary](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3516-find-closest-person/) | Easy |
@@ -437,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1863-sum-of-all-subset-xor-totals](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
