@@ -327,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
+| [1688-count-of-matches-in-tournament](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1409-queries-on-a-permutation-with-key](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
+| [1688-count-of-matches-in-tournament](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
