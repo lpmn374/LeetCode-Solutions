@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-shuffle-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1598-crawler-log-folder](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -633,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1544-make-the-string-great](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1598-crawler-log-folder](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -794,4 +796,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
