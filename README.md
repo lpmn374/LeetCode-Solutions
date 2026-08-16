@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2029-stone-game-ix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2235-add-two-integers](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
@@ -464,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2029-stone-game-ix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -611,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2029-stone-game-ix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2126-destroying-asteroids](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -754,6 +758,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [2029-stone-game-ix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -803,4 +808,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
