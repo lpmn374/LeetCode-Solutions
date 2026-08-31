@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1598-crawler-log-folder](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -728,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0807-max-increase-to-keep-city-skyline](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0994-rotting-oranges](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1260-shift-2d-grid](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
