@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2325-decode-the-message](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2325-decode-the-message/) | Easy |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1859-sorting-the-sentence](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1871-jump-game-vii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [1927-sum-game](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
