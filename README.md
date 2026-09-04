@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2185-counting-words-with-a-given-prefix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+| [2315-count-asterisks](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2315-count-asterisks/) | Easy |
 | [2325-decode-the-message](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2325-decode-the-message/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
