@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2798-number-of-employees-who-met-the-target](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2942-find-words-containing-character](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
@@ -291,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
