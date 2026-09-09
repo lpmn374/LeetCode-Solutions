@@ -396,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3783-mirror-distance-of-an-integer](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 | [3870-count-commas-in-range](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
