@@ -309,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3271-hash-divided-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3271-hash-divided-string/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3280-convert-date-to-binary/) | Easy |
+| [3340-check-balanced-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3340-check-balanced-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
