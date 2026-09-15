@@ -323,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3794-reverse-string-prefix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3875-construct-uniform-parity-array-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
