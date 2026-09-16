@@ -287,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2185-counting-words-with-a-given-prefix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2315-count-asterisks](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2315-count-asterisks/) | Easy |
@@ -423,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
