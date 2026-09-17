@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1678-goal-parser-interpretation](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1773-count-items-matching-a-rule](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1816-truncate-sentence](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
@@ -577,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0763-partition-labels](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0844-backspace-string-compare](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
