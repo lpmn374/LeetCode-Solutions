@@ -6,9 +6,8 @@ class Solution {
             map1.putIfAbsent(rings.charAt(i), new HashSet<>());
             map1.get(rings.charAt(i)).add(rings.charAt(i-1));
         }
-            
-        for(Set<Character> x: map1.values())
-            if (x.size()==3) count++;
-        return count; 
+        for(Set<Character> set: map1.values())
+            if (set.size()==3) count++;
+        return count;
     }
 }
