@@ -331,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3794-reverse-string-prefix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -603,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
