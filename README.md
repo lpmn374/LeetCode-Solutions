@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3483-unique-3-digit-even-numbers](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3668-restore-finishing-order](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3668-restore-finishing-order/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3516-find-closest-person/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
