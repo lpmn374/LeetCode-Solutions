@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2315-count-asterisks](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2315-count-asterisks/) | Easy |
 | [2325-decode-the-message](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2325-decode-the-message/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [2418-sort-the-people](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2678-number-of-senior-citizens/) | Easy |
@@ -441,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
@@ -711,6 +713,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3174-clear-digits](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3174-clear-digits/) | Easy |
 ## Monotonic Stack
