@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0709-to-lower-case](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0763-partition-labels](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0771-jewels-and-stones](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [0796-rotate-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0844-backspace-string-compare](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -874,6 +875,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0796-rotate-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
