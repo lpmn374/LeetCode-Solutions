@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0844-backspace-string-compare](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
+| [0856-score-of-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1079-letter-tile-possibilities](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -720,6 +721,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0654-maximum-binary-tree](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0735-asteroid-collision](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
+| [0856-score-of-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -905,6 +907,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0856-score-of-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
