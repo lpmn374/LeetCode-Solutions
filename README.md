@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0804-unique-morse-code-words](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0844-backspace-string-compare](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1079-letter-tile-possibilities](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -685,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0763-partition-labels](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
@@ -722,6 +724,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -908,6 +911,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0856-score-of-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
