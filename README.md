@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2185-counting-words-with-a-given-prefix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [2418-sort-the-people](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2418-sort-the-people/) | Easy |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2540-minimum-common-value](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -579,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2418-sort-the-people](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
@@ -710,6 +713,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
@@ -782,6 +786,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2974-minimum-number-game](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
