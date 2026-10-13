@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3689-maximum-total-subarray-value-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -595,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -723,6 +725,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
