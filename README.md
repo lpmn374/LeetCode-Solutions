@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1528-shuffle-string/) | Easy |
+| [1534-count-good-triplets](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1534-count-good-triplets/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1598-crawler-log-folder](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
@@ -532,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1291-sequential-digits/) | Medium |
+| [1534-count-good-triplets](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1534-count-good-triplets/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
