@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -377,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/lpmn374/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2540-minimum-common-value](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -589,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1859-sorting-the-sentence](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
