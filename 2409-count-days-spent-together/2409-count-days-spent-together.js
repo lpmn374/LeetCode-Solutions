@@ -25,7 +25,6 @@ var countDaysTogether = function(arriveAlice, leaveAlice, arriveBob, leaveBob) {
         return days;
     }
     let aArrive=convertDate(arriveAlice), aLeave=convertDate(leaveAlice), bArrive=convertDate(arriveBob), bLeave=convertDate(leaveBob);
-    let isAliceArriveFirst=aArrive<bArrive?true:false;
-    if ((isAliceArriveFirst && aLeave<bArrive) || (!isAliceArriveFirst && bLeave<aArrive)) return 0;
-    return Math.min(aLeave, bLeave)-Math.max(aArrive, bArrive)+1;
+    let isAliceArriveFirst=aArrive<bArrive;
+    return Math.max((Math.min(aLeave, bLeave)-Math.max(aArrive, bArrive)+1), 0);
 };
