@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3668-restore-finishing-order](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3668-restore-finishing-order/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -742,6 +743,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1641-count-sorted-vowel-strings](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1871-jump-game-vii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Greedy
