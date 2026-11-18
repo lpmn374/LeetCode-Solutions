@@ -356,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [2942-find-words-containing-character](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
