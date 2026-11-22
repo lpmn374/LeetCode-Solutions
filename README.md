@@ -343,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2185-counting-words-with-a-given-prefix](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
