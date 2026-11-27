@@ -457,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2413-smallest-even-multiple](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2469-convert-the-temperature](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
+| [2485-find-the-pivot-integer](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2652-sum-multiples/) | Easy |
@@ -544,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1871-jump-game-vii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [2485-find-the-pivot-integer](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/lpmn374/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3427-sum-of-variable-length-subarrays](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
