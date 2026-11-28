@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3875-construct-uniform-parity-array-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [4020-elevator-requests-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/4020-elevator-requests-i/) | Easy |
@@ -552,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3432-count-partitions-with-even-sum-difference](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/lpmn374/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
